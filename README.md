@@ -2,4 +2,4 @@
 
 Kapitler fra boken "Statistikk og sannsynlighetsregning" av Alf Harbitz
 
-[Kapittel 1]({{file name='kap1_bok.pdf'}})
+<a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/kap1_bok.pdf">Kapittel 1</a>
