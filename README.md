@@ -6,6 +6,7 @@ Kapitler fra boken "Statistikk og sannsynlighetsregning" av Alf Harbitz
 
 <a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/Harbitz_kap2.pdf">Kapittel 2</a>
 
+<a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/Harbitz_kap3.pdf">Kapittel 3</a>
 
 Fasit til oppgaver:
 
