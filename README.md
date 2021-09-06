@@ -10,6 +10,6 @@ Kapitler fra boken "Statistikk og sannsynlighetsregning" av Alf Harbitz
 
 Fasit til oppgaver:
 
-<a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/fasit_kap1.pdf">Fasit kap. 1</a>
+<a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/Harbitz_fasit_2021_0905.pdf">Fasit</a>
 
 
