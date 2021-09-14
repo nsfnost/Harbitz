@@ -8,6 +8,8 @@ Kapitler fra boken "Statistikk og sannsynlighetsregning" av Alf Harbitz
 
 <a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/Harbitz_kap3.pdf">Kapittel 3</a>
 
+<a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/Harbitz_kap4.pdf">Kapittel 4</a>
+
 Fasit til oppgaver:
 
 <a id="raw-url" href="https://github.com/nsfnost/Harbitz/blob/main/Harbitz_fasit_2021_0905.pdf">Fasit</a>
